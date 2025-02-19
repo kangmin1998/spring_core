@@ -4,9 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ee312c9-8472-4695-b91e-80ac4485e26e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2ee312c9-8472-4695-b91e-80ac4485e26e" name="Changes" comment="update : IoC Container, Dependency Injection, DI Annotation">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/collection/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/collection/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/primary/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/primary/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/qualifier/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/qualifier/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Charmander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Pikachu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Squirtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/prototype/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/prototype/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/singleton/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/singleton/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/annotation/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/annotation/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/annotation/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/java/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/java/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/java/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section03/properties/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section03/properties/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chap03/section03/properties/product_info.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/constructor/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/constructor/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/constructor/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/constructor/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/field/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/field/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/field/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/field/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/setter/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/setter/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/setter/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/setter/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/common/BookDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/common/BookDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/common/BookDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/common/BookDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/common/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/common/BookDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,40 +58,73 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kangmin1998"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kangmin1998&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kangmin1998/spring_core.git",
-    "accountId": "26919a8e-7351-4cdf-b4d4-c27262ea3371"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kangmin1998/spring_core.git&quot;,
+    &quot;accountId&quot;: &quot;26919a8e-7351-4cdf-b4d4-c27262ea3371&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2tCoSB9gMZgiNME7cHZnr59KM6F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.spring_core [:chap03_di_annotation.com.section02.annotation.collection.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap03_di_annotation.com.section02.annotation.primary.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap03_di_annotation.com.section02.annotation.qualifier.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap04_bean.com.section01.scope.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap04_bean.com.section01.scope.prototype.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap04_bean.com.section01.scope.singleton.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap04_bean.com.section02.intidestroy.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap04_bean.com.section03.properties.Application1.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/taemin/dev/lecture/Spring/spring_core",
+    "last_opened_file_path": "C:/taemin/dev/lecture/JAVA_STUDY",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\taemin\dev\lecture\Spring\spring_core\src\main\java\chap04_bean\com\section02\intidestroy\annotation" />
+      <recent name="C:\taemin\dev\lecture\Spring\spring_core\src\main\java\chap04_bean\com\section01\scope\prototype" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chap04_bean.com.section02.intidestroy" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,11 +141,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739865415474</updated>
-      <workItem from="1739865417016" duration="59000" />
+      <workItem from="1739865417016" duration="1518000" />
+      <workItem from="1739924518299" duration="15081000" />
     </task>
+    <task id="LOCAL-00001" summary="update : IoC Container, Dependency Injection, DI Annotation">
+      <option name="closed" value="true" />
+      <created>1739865515070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739865515070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update : IoC Container, Dependency Injection, DI Annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="update : IoC Container, Dependency Injection, DI Annotation" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

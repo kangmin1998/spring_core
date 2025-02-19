@@ -1,4 +1,4 @@
-package chap03_di_annotation.com.secation01.autowired.constructor;
+package chap03_di_annotation.com.section01.autowired.constructor;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

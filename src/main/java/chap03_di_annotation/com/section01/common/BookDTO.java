@@ -1,4 +1,4 @@
-package chap03_di_annotation.com.secation01.common;
+package chap03_di_annotation.com.section01.common;
 
 import java.util.Date;
 

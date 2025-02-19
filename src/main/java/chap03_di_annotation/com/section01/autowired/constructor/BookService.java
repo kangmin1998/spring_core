@@ -1,7 +1,7 @@
-package chap03_di_annotation.com.secation01.autowired.constructor;
+package chap03_di_annotation.com.section01.autowired.constructor;
 
-import chap03_di_annotation.com.secation01.common.BookDAO;
-import chap03_di_annotation.com.secation01.common.BookDTO;
+import chap03_di_annotation.com.section01.common.BookDAO;
+import chap03_di_annotation.com.section01.common.BookDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

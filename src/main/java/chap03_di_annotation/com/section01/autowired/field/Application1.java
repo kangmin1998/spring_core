@@ -1,4 +1,4 @@
-package chap03_di_annotation.com.secation01.autowired.field;
+package chap03_di_annotation.com.section01.autowired.field;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
