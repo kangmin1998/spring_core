@@ -40,8 +40,10 @@ public class ContextConfiguration {
     }
 
     @Bean
-    public Product water() {
-        return new Beverage("지리산암반수", 3000, 500);
+    public Product water(@Value("${beverage.water.name:지리산암바수}") String waterName,
+                         @Value("${beverage.water.price:3000}") int waterPrice,
+                         @Value("${beverage.water.capacity:500}") int waterCapacity) {
+        return new Beverage(waterName, waterPrice, waterCapacity);
     }
 
     @Bean

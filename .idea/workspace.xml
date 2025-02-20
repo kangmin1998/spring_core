@@ -4,49 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ee312c9-8472-4695-b91e-80ac4485e26e" name="Changes" comment="update : IoC Container, Dependency Injection, DI Annotation">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/collection/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/collection/PokemonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/primary/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/primary/PokemonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/qualifier/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/annotation/qualifier/PokemonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Charmander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Pikachu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section02/common/Squirtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/common/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/prototype/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/prototype/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/singleton/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section01/scope/singleton/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/annotation/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/annotation/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/annotation/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/java/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/java/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section02/intidestroy/java/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section03/properties/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section03/properties/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chap03/section03/properties/product_info.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2ee312c9-8472-4695-b91e-80ac4485e26e" name="Changes" comment="update : bean">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap05_aop/com/section01/aop/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap05_aop/com/section01/aop/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap05_aop/com/section01/aop/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap05_aop/com/section01/aop/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap05_aop/com/section01/aop/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap05_aop/com/section01/aop/MemberService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/constructor/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/constructor/Application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/constructor/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/constructor/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/field/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/field/Application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/field/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/field/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/setter/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/setter/Application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/autowired/setter/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/autowired/setter/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/common/BookDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/common/BookDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/common/BookDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/common/BookDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/secation01/common/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03_di_annotation/com/section01/common/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section03/properties/ContextConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04_bean/com/section03/properties/ContextConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chap03/section03/properties/product_info.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chap03/section03/properties/product_info.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +25,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring_core" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,11 +87,12 @@
     "Gradle.spring_core [:chap04_bean.com.section01.scope.singleton.Application1.main()].executor": "Run",
     "Gradle.spring_core [:chap04_bean.com.section02.intidestroy.Application1.main()].executor": "Run",
     "Gradle.spring_core [:chap04_bean.com.section03.properties.Application1.main()].executor": "Run",
+    "Gradle.spring_core [:chap05_aop.com.section01.aop.Application1.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/taemin/dev/lecture/JAVA_STUDY",
+    "last_opened_file_path": "C:/taemin/dev/lecture/Spring/spring_core",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -142,7 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1739865415474</updated>
       <workItem from="1739865417016" duration="1518000" />
-      <workItem from="1739924518299" duration="15081000" />
+      <workItem from="1739924518299" duration="15121000" />
+      <workItem from="1740010774128" duration="11005000" />
     </task>
     <task id="LOCAL-00001" summary="update : IoC Container, Dependency Injection, DI Annotation">
       <option name="closed" value="true" />
@@ -152,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739865515070</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update : bean">
+      <option name="closed" value="true" />
+      <created>1739954347134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739954347134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +155,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update : IoC Container, Dependency Injection, DI Annotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="update : IoC Container, Dependency Injection, DI Annotation" />
+    <MESSAGE value="update : bean" />
+    <option name="LAST_COMMIT_MESSAGE" value="update : bean" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
